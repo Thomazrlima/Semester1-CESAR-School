@@ -1,6 +1,4 @@
-# Atividades do Primeiro Período da Faculdade
-
-Bem-vindo ao repositório das atividades do primeiro período da faculdade!
+# Atividades do Primeiro Período
 
 ## Disciplinas
 
